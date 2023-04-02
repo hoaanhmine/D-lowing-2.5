@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameover.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="game over animati instance 10000" x="13" y="13" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10001" x="1434" y="13" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10002" x="2855" y="13" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10003" x="4276" y="13" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10004" x="5697" y="13" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10005" x="13" y="825" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10006" x="1434" y="825" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10007" x="2855" y="825" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10008" x="4276" y="825" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10009" x="4276" y="825" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10010" x="5697" y="825" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10011" x="13" y="1637" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10012" x="1434" y="1637" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10013" x="2855" y="1637" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10014" x="4276" y="1637" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10015" x="5697" y="1637" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10016" x="13" y="2449" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10017" x="1434" y="2449" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10018" x="2855" y="2449" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10019" x="4276" y="2449" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10020" x="5697" y="2449" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10021" x="13" y="3261" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10022" x="1434" y="3261" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10023" x="1434" y="3261" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10024" x="2855" y="3261" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10025" x="4276" y="3261" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10026" x="4276" y="3261" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10027" x="5697" y="3261" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10028" x="13" y="4073" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10029" x="1434" y="4073" width="1323" height="714"/>
+	<SubTexture name="game over animati instance 10030" x="2855" y="4073" width="1323" height="714"/>
+</TextureAtlas>

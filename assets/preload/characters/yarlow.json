@@ -1,0 +1,41 @@
+{
+	"storyName": "pogo mix",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"D'lowing",
+			"yarlowicon",
+			[
+				246,
+				193,
+				75
+			]
+		],
+		[
+			"Blackout",
+			"gray",
+			[
+				126,
+				113,
+				135
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "dlowing",
+	"hiddenUntilUnlocked": false
+}
